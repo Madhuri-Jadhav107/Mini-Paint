@@ -10,5 +10,7 @@ This is a basic browser-based paint web application that allows users to create 
     Eraser Tool: Erase parts of your drawing just like a real eraser. Switch between pen and eraser modes seamlessly.
 
     Clear/Delete Canvas: Instantly erase the entire canvas with a single click, giving you a fresh space to start over.
-![Screenshot 2025-04-12 135751](https://github.com/user-attachments/assets/bbe5f0c2-ac26-4e2a-baca-4501619babf9)
+
+![image](https://github.com/user-attachments/assets/67260f03-3275-4bbc-8f89-f09512baec0d)
+
 
